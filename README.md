@@ -48,19 +48,19 @@ The project includes two types of users:
 ## Screenshot
 Include a visual example of the application in action:
 ---
-##EMPLOYEE LOGIN
+## EMPLOYEE LOGIN
 
 ![Jarvis Virtual Assistant](./assets/login.png)
 
-##EMPLOYEE REGISTRATION
+## EMPLOYEE REGISTRATION
 
 ![Jarvis Virtual Assistant](./assets/registration.png)
 
-##ADMIN LOGIN
+## ADMIN LOGIN
 
 ![Jarvis Virtual Assistant](./assets/Admin.png)
 
-##MAIN UI
+## MAIN UI
 
 ![Jarvis Virtual Assistant](./assets/MainUI.png)
 
