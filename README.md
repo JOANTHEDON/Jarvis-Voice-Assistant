@@ -48,7 +48,10 @@ The project includes two types of users:
 ## Screenshot
 Include a visual example of the application in action:
 
-![Jarvis Virtual Assistant](./assets/jarvis_ui.png)
+![Jarvis Virtual Assistant](./assets/login.png)
+![Jarvis Virtual Assistant](./assets/registration.png)
+![Jarvis Virtual Assistant](./assets/Admin.png)
+![Jarvis Virtual Assistant](./assets/MainUI.png)
 
 > **Note:** Replace `./assets/jarvis_ui.png` with the correct path to your image.
 
